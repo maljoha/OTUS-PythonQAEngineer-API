@@ -1,2 +1,1 @@
-# OTUS-PythonQAEngineer-API
-OTUS-PythonQAEngineer-API
+Репозиторий для д/з по курсу OTUS-PythonQAEngineer Тема "DDT в тестировании API"
